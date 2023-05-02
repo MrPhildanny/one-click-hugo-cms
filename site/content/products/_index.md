@@ -1,5 +1,5 @@
 ---
-title: Our Coffee
+title: Moving Gears
 type: products
 image: /img/products-jumbotron.jpg
 intro:
