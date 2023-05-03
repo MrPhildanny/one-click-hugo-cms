@@ -3,7 +3,7 @@ title: "Moving Gears"
 subtitle:  Expert Generator & Automobile Repairs and Maintenance
 image: /img/home-jumbotron.jpg
 blurb:
-    heading: Why Moving Gears?
+    heading: Why Choose Moving Gears?
     text: "At Moving Gears, we extensively train our technicians to ensure the highest quality of service. With years of experience in repairing and maintaining both generators and automobiles, we understand the importance of keeping your vehicles and equipment running smoothly. Our commitment to customer satisfaction, fast response time, and competitive pricing sets us apart in the industry."
 intro:
     heading: "Services We Offer"
