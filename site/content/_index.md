@@ -7,7 +7,15 @@ blurb:
     text: "At Moving Gears, we extensively train our technicians to ensure the highest quality of service. With years of experience in repairing and maintaining both generators and automobiles, we understand the importance of keeping your vehicles and equipment running smoothly. Our commitment to customer satisfaction, fast response time, and competitive pricing sets us apart in the industry."
 intro:
     heading: "Services We Offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
+    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone.
+<ul>
+                <li>Generator Repair and Maintenance</li>
+                <li>Automobile Repair and Maintenance</li>
+                <li>Engine Diagnostics</li>
+                <li>Fleet Maintenance</li>
+                <li>Preventative Maintenance</li>
+                <li>Oil and Filter Change</li>
+            </ul>"
 
 products:
     - image:
