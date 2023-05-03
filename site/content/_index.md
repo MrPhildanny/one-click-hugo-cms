@@ -4,7 +4,7 @@ subtitle:  Expert Generator & Automobile Repairs and Maintenance
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why Moving Gears?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+    text: "At Moving Gears, we extensively train our technicians to ensure the highest quality of service. With years of experience in repairing and maintaining both generators and automobiles, we understand the importance of keeping your vehicles and equipment running smoothly. Our commitment to customer satisfaction, fast response time, and competitive pricing sets us apart in the industry."
 intro:
     heading: "Services We Offer"
     text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
