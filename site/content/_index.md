@@ -1,9 +1,9 @@
 ---
 title: "Moving Gears"
-subtitle: Support sustainable farming while enjoying a cup
+subtitle: Your number one mechanical partner 
 image: /img/home-jumbotron.jpg
 blurb:
-    heading: Why Kaldi?
+    heading: Why Moving Gears?
     text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
 intro:
     heading: "What we offer"
