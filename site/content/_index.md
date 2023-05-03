@@ -1,6 +1,6 @@
 ---
 title: "Moving Gears"
-subtitle: Your number one mechanical partner 
+subtitle:  Expert Generator & Automobile Repairs and Maintenance
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why Moving Gears?
