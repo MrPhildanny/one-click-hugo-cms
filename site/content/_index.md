@@ -10,7 +10,7 @@ intro:
     text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
 products:
     - image:
-      text: "Generator Repair and Maintenance""
+      text: "Generator Repair and Maintenance"
     - image:
       text: "Generator Repair and Maintenance"
     - image:
