@@ -12,10 +12,6 @@ intro:
 products:
     - image:
       text: "Generator Repair and Maintenance"
-    - image:
-      text: "Generator Repair and Maintenance"
-    - image:
-      text: "Generator Repair and Maintenance""
     - image: /img/illustrations-coffee-gear.svg
       text: ""
 values:
